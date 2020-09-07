@@ -1,5 +1,5 @@
-git项目操作
-    1.git init   初始化
+git项目操作 
+        1.git init   初始化（必须的，他会生成一个.git文件）
 	2.git clone https://github.com/1919753675/supermail.git   从git上克隆项目
 	3.cd 项目路径    进入项目
 	4.git status      查看项目状态，红色的都是没提交的
