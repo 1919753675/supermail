@@ -1,1 +1,8 @@
-aaaaaaaaaaa
+git项目操作
+    1.git init   初始化
+	2.git clone https://github.com/1919753675/supermail.git   从git上克隆项目
+	3.cd 项目路径    进入项目
+	4.git status      查看项目状态，红色的都是没提交的
+	5.git add .       添加所有文件
+	6.git commit - '提交项目信息'
+	7.git push       提交到远程git仓库
